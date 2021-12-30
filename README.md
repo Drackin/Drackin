@@ -4,8 +4,8 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/607507574018801664)](https://discord.com/users/607507574018801664)
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drackin&theme=dark)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drackin&theme=dark)
 ---
 ![Drackin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drackin&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drackin&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drackin&layout=compact)
