@@ -28,3 +28,6 @@ And Frameworks:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drackin&layout=compact&theme=react)
 ---
 ![Drackin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Drackin&theme=react-dark)
+
+# 🥇 Details
+![](https://komarev.com/ghpvc/?username=Drackin&color=brightgreen)
