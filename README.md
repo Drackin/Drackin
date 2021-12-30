@@ -6,7 +6,6 @@
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drackin&theme=dark)](https://git.io/streak-stats)
 ---
-<div style="display: flex; flex-direction: column;">
-  ![Drackin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drackin&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Drackin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drackin&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
