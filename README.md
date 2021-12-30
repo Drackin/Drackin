@@ -4,4 +4,4 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/607507574018801664)](https://discord.com/users/607507574018801664)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drackin&theme=dark)](https://git.io/streak-stats)
