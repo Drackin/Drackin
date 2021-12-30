@@ -5,3 +5,5 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/607507574018801664)](https://discord.com/users/607507574018801664)
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drackin&theme=dark)](https://git.io/streak-stats)
+---
+![Drackin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drackin&show_icons=true&theme=radical)
