@@ -7,17 +7,18 @@ Hello, my name is Drackin. I'm Full Stack Developer from Turkey. I know:
 - Python
 - C#
 - HTML & CSS
-- C++
+- C/C++
 - Java
+- Rust
+- Go (low)
 
 And Frameworks:
 
 - React.js
 - Vue.js
-- Asp.NET
+- Svelte
 - Next.js
 - Nuxt.js
-- Node.js (I know, it's Runtime)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/607507574018801664)](https://discord.com/users/607507574018801664)
 # 📊 Stats
@@ -27,7 +28,6 @@ And Frameworks:
 ![Drackin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drackin&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drackin&layout=compact&theme=react)
 ---
-![Drackin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Drackin&theme=react-dark)
 
 # 🥇 Details
 ![](https://komarev.com/ghpvc/?username=Drackin&color=brightgreen)
