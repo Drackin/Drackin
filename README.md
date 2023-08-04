@@ -38,6 +38,11 @@ Hi there! My name is Sonay, AKA: Drackin. I'm a Full-Stack Developer from Izmir/
 ![LINUX](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux) 
 ![Postman](https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=postman) 
 
+## 🕛 WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📊 Stats
   
 ![](https://github-profile-trophy.vercel.app/?username=Drackin&theme=onedark&no-frame=true&margin-w=4&column=-1)
