@@ -43,11 +43,11 @@ Hi there! My name is Sonay, AKA: Drackin. I'm a Full-Stack Developer from Izmir/
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte          108 hrs 28 mins ████████░░░░░░░░░░░░░░░░░   31.40 %
-TypeScript      89 hrs 21 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-Vue.js          35 hrs 14 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Kotlin          22 hrs 4 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-JavaScript      19 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Svelte          108 hrs 28 mins ███████▓░░░░░░░░░░░░░░░░░   31.25 %
+TypeScript      89 hrs 21 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
+Vue.js          35 hrs 14 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Kotlin          23 hrs 35 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+JavaScript      19 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
 ```
 
 <!--END_SECTION:waka-->
