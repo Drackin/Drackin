@@ -1,6 +1,6 @@
 ## 🦸‍♂️ Who is Drackin?
 
-Hi there! My name is Sonay, AKA: Drackin. I'm a Full-Stack Developer from Izmir/Turkey. I love programming since 5th grade and now I am 12th grade. A very very long adventure. I'm interested in music for 8 years other than programming. I play an electric guitar and a violin. Music is a part of my life. And the other part is programming.
+Hi there! My name is Sonay, AKA: Drackin. I'm a Full-Stack Developer from Izmir/Turkey. I love programming since first class of middle school. I'm interested in music. I play electric guitar and violin. Music is a part of my life. And the other part is programming.
 
 ## 💻 Tech Stack
   
